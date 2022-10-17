@@ -20,10 +20,11 @@ The **REST API** is an application programming interface (API or web API) that f
   <img src="https://user-images.githubusercontent.com/110366380/196176161-baa1a556-6e38-44e6-966a-a250d2999e80.jpg">
 </p>
 
+
 ## Why Use REST API?
 
 - It is easy to understand and learn.
-- It is stateless
+- It is stateless. Server doesn't need to remember previous requests.
 - We can organize complicated application and make it easy to use resources.
 - Easy integration with new clients
 - Use Standard HTTP procedure to retrieve data and requests.
@@ -66,3 +67,12 @@ We also have 3 additional methods:
 
 
 ## Why Python with REST?
+
+Python makes it very easy to work with API. With its easy to use syntax and a range of libraries and framework, a restful application can be easily made using Python. Few advantages include:
+
+- Library like `requests` makes it very easy to send HTTP requests.
+- The resulting response can be handled like normal python program.
+- The Django REST framework can be used to create Python REST APIs. 
+- Supports Authentication and Authorization when needed.
+- **HTTP Basic Auth** can be used to send login and password details to the required endpoint.
+- Supports both XML and JSON
