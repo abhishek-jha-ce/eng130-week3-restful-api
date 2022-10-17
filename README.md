@@ -26,7 +26,7 @@ The **REST API** is an application programming interface (API or web API) that f
 - It is easy to understand and learn.
 - It is stateless. Server doesn't need to remember previous requests.
 - We can organize complicated application and make it easy to use resources.
-- Easy integration with new clients
+- Easy integration with new clients.
 - Use Standard HTTP procedure to retrieve data and requests.
 - Uses JSON format which is easy to learn and navigate.
 - Can be used with any type of application and device.
@@ -75,4 +75,4 @@ Python makes it very easy to work with API. With its easy to use syntax and a ra
 - The Django REST framework can be used to create Python REST APIs. 
 - Supports Authentication and Authorization when needed.
 - **HTTP Basic Auth** can be used to send login and password details to the required endpoint.
-- Supports both XML and JSON
+- Supports both XML and JSON.
